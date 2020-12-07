@@ -1,0 +1,62 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Binary TOC=YES
+Create CHI file=YES
+Title=libscap
+
+[WINDOWS]
+main="libscap","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x70387e,,,,,,,,0
+
+[FILES]
+scap_8h.html
+group__scap__defs.html
+group__scap__functs.html
+struct__scap__machine__info.html
+structevt__param__info.html
+structppm__syscall__desc.html
+structscap__addrlist.html
+structscap__fdinfo.html
+structscap__groupinfo.html
+structscap__ifinfo__ipv4.html
+structscap__ifinfo__ipv4__nolinkspeed.html
+structscap__ifinfo__ipv6.html
+structscap__ifinfo__ipv6__nolinkspeed.html
+structscap__mountinfo.html
+structscap__open__args.html
+structscap__stats.html
+structscap__threadinfo.html
+structscap__userinfo.html
+structscap__userlist.html
+structudig__ring__buffer__status.html
+index.html
+modules.html
+annotated.html
+classes.html
+functions.html
+functions_vars.html
+files.html
+globals.html
+globals_func.html
+globals_type.html
+globals_enum.html
+globals_eval.html
+globals_defs.html
+tab_a.png
+tab_b.png
+tab_h.png
+tab_s.png
+nav_h.png
+nav_f.png
+bc_s.png
+doxygen.png
+closed.png
+open.png
+bdwn.png
+sync_on.png
+sync_off.png
