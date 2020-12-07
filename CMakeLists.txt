@@ -97,7 +97,7 @@ if(NOT WIN32)
 		add_definitions(-DHAS_CAPTURE)
 	endif()
 
-#	add_subdirectory(scripts)
+	add_subdirectory(scripts)
 
 	if(CMAKE_SYSTEM_NAME MATCHES "SunOS")
 		set(CMD_MAKE gmake)
@@ -220,7 +220,7 @@ if(CMAKE_SYSTEM_NAME MATCHES "Linux")
 
     if (BUILD_LIBSCAP_EXAMPLES)
         add_subdirectory(examples/01-open)
-#        add_subdirectory(examples/02-validatebuffer)
+        add_subdirectory(examples/02-validatebuffer)
     endif()
 
 	include(FindMakedev)
