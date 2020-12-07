@@ -42,10 +42,10 @@ limitations under the License.
 #include "scap.h"
 #ifdef HAS_CAPTURE
 #ifndef CYGWING_AGENT
-#include "driver_config.h"
+#include "./driver/driver_config.h"
 #endif // CYGWING_AGENT
 #endif // HAS_CAPTURE
-#include "../../driver/ppm_ringbuffer.h"
+#include "./driver/ppm_ringbuffer.h"
 #include "scap_savefile.h"
 #include "scap-int.h"
 #if defined(HAS_CAPTURE) && !defined(CYGWING_AGENT)

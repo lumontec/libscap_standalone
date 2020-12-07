@@ -1,3 +1,0 @@
-/home/crash/Documents/local/sysdig/sysdig/userspace/libscap/examples/01-open/build/CMakeFiles/rebuild_cache.dir
-/home/crash/Documents/local/sysdig/sysdig/userspace/libscap/examples/01-open/build/CMakeFiles/edit_cache.dir
-/home/crash/Documents/local/sysdig/sysdig/userspace/libscap/examples/01-open/build/CMakeFiles/scap-open.dir

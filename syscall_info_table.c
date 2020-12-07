@@ -17,8 +17,8 @@ limitations under the License.
 
 */
 
-#include "../common/sysdig_types.h"
-#include "../../driver/ppm_events_public.h"
+#include "./common/sysdig_types.h"
+#include "./driver/ppm_events_public.h"
 #include "scap.h"
 
 /*

@@ -62,8 +62,8 @@ struct iovec;
 #include <time.h>
 #endif
 #include "uthash.h"
-#include "../common/sysdig_types.h"
-#include "../../driver/ppm_events_public.h"
+#include "./common/sysdig_types.h"
+#include "./driver/ppm_events_public.h"
 
 //
 // Return types

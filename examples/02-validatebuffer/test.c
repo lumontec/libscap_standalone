@@ -24,7 +24,7 @@ limitations under the License.
 #include <assert.h>
 
 #include <scap.h>
-#include "../../../../driver/ppm_events_public.h"
+#include "../../driver/ppm_events_public.h"
 
 extern const struct ppm_event_info g_event_info[];
 
