@@ -14,6 +14,7 @@ Title=libscap
 main="libscap","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x70387e,,,,,,,,0
 
 [FILES]
+scap_8h_source.html
 scap_8h.html
 group__scap__defs.html
 group__scap__functs.html
